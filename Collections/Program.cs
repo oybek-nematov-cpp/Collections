@@ -2,7 +2,7 @@
 {
     meva.Add("appale");
     meva.Add("banana");
-    meva.Add("orange");
+    meva.Add("orange");   
 }
 foreach (var item in meva)
 {
